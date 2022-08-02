@@ -1,0 +1,14 @@
+D:\1\Прога по БД\Search\Search\bin\Debug\Search.exe.config
+D:\1\Прога по БД\Search\Search\bin\Debug\Search.exe
+D:\1\Прога по БД\Search\Search\bin\Debug\Search.pdb
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.MainForm.resources
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.csproj.GenerateResource.Cache
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.exe
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.pdb
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.menu.resources
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.users.resources
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.doc.resources
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.upd_doc.resources
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.search_doc.resources
+D:\1\Прога по БД\Search\Search\obj\Debug\ResolveAssemblyReference.cache
+D:\1\Прога по БД\Search\Search\obj\Debug\Search.organization.resources
